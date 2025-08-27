@@ -133,7 +133,7 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Shree Devi Institute Of Technology(Persuing)",
+      school: "Shree Devi Institute Of Technology (pursuing)",
       href: "https://sdit.ac.in/",
       degree: "Master of Computer Application",
       logoUrl: "/images/images.png",
