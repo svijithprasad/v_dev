@@ -11,7 +11,7 @@ export const DATA = {
     "Full-Stack Developer | End-to-End Creator.",
   summary:
     "Full-stack developer who loves turning ideas into scalable solutions. From university projects like [Medha’s](https://www.instagram.com/medha_sdit/) backend to personal [apps](#projects) with clean UI, I’m constantly pushing myself to build better, smarter, and friendlier digital experiences.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/profile.png",
   skills: [
     "ReactJS",
     "Javascript",
