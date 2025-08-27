@@ -4,14 +4,14 @@ import { Code, GraduationCap, HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Vijith",
   initials: "SVP",
-  url: "https://dillion.io",
+  url: "https://your-website.com",
   location: "Karnataka, India",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "https://your-website.com",
   description:
     "Full-Stack Developer | End-to-End Creator.",
   summary:
     "Full-stack developer who loves turning ideas into scalable solutions. From university projects like [Medha’s](https://www.instagram.com/medha_sdit/) backend to personal [apps](#projects) with clean UI, I’m constantly pushing myself to build better, smarter, and friendlier digital experiences.",
-  avatarUrl: "/profile.png",
+  avatarUrl: "/images/profile.png",
   skills: [
     "ReactJS",
     "Javascript",
@@ -136,7 +136,7 @@ export const DATA = {
       school: "Shree Devi Institute Of Technology(Persuing)",
       href: "https://sdit.ac.in/",
       degree: "Master of Computer Application",
-      logoUrl: "/images.png",
+      logoUrl: "/images/images.png",
       start: "2024",
       end: "----",
     },
@@ -144,7 +144,7 @@ export const DATA = {
       school: "Srinivas University",
       href: "https://srinivasuniversity.edu.in/",
       degree: "Bachelor's Degree of Computer Application (BCA)",
-      logoUrl: "/srinivas.png",
+      logoUrl: "/images/srinivas.png",
       start: "2021",
       end: "2024",
     },
@@ -152,7 +152,7 @@ export const DATA = {
       school: "St. Aloysius College",
       href: "https://staloysius.edu.in/",
       degree: "PUC (PCMC)",
-      logoUrl: "/puc.jpg",
+      logoUrl: "/images/puc.jpg",
       start: "2019",
       end: "2021",
     },
@@ -180,7 +180,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/inscribe.png",
+      image: "/images/inscribe.png",
       video:
         "",
     },
@@ -209,7 +209,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/convertmate.png",
+      image: "/images/convertmate.png",
       video: "",
     },
     {
@@ -230,7 +230,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/design.png",
+      image: "/images/design.png",
       video: "",
     },
     {
@@ -258,7 +258,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/paper.png",
+      image: "/images/paper.png",
       video:
         "",
     },
