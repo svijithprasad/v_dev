@@ -170,7 +170,7 @@ export default function Page() {
                 Have an idea, project, or just want to say hi?
                 Drop me an{" "}
                 <Link
-                  href="mailto:youremail@example.com"
+                  href="mailto:svijithprasad@gmail.com"
                   className="text-blue-500 hover:underline"
                 >
                   email
