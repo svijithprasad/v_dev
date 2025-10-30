@@ -28,7 +28,10 @@ export const DATA = {
     "Zustand",
     "Java",
     "Flutter",
-    "React Native"
+    "React Native",
+    "Web Designing",
+    "Web Development",
+    "Mobile App Development"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -213,6 +216,29 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Medha2k25",
+      href: "https://medha2k25-cyan.vercel.app/",
+      dates: "December 2024 - January 2025",
+      active: true,
+      description:
+        "A full stack website about a annual fest that is conducted in Shree Devi Institute of Technology called Medha",
+      technologies: [
+        "MERN",
+        "Razorpay",
+        "Shadcn UI",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://medha2k25-cyan.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/images/medha.png",
+      video: "",
+    },
+    {
       title: "Timely",
       href: "https://github.com/svijithprasad/Timely",
       dates: "June 2025 - July 2025",
@@ -259,6 +285,29 @@ export const DATA = {
         },
       ],
       image: "/images/paper.png",
+      video:
+        "",
+    },
+    {
+      title: "Elon Musk Portfolio",
+      href: "https://musk-voyage-portfolio.vercel.app/",
+      dates: "August 2025 - August 2025",
+      active: true,
+      description:
+        "A comprehensive portfolio highlighting the life, career, and groundbreaking innovations of Elon Musk, showcasing his impact across technology, space exploration, and sustainable energy.",
+      technologies: [
+        "NextJS",
+        "Shadcn UI",
+        "React Bits",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://musk-voyage-portfolio.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/images/elon.png",
       video:
         "",
     },
